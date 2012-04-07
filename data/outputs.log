@@ -1,0 +1,174 @@
+<< MODE #irssi b
+<< PING barjavel.freenode.net
+<< PRIVMSG #irssi :Good evening! I'm debugging an IRC server, and I'd love to dump all of the network level interactions (that is, IRC protocol messages). Can irssi do that? I haven't had much luck googling.
+<< PRIVMSG #tanuki :Hello boozu!
+<< PING barjavel.freenode.net
+<< PRIVMSG #tanuki :Hehehe.
+<< PING barjavel.freenode.net
+<< PING barjavel.freenode.net
+<< PRIVMSG #irssi :Kays: Fabulous. Thank you. :)
+<< PING barjavel.freenode.net
+<< PRIVMSG #tanuki :... looks like /rawlog is the most likely bet.
+<< MODE #irssi b
+<< PING barjavel.freenode.net
+<< PRIVMSG #irssi :Good evening! I'm debugging an IRC server, and I'd love to dump all of the network level interactions (that is, IRC protocol messages). Can irssi do that? I haven't had much luck googling.
+<< PRIVMSG #tanuki :Hello boozu!
+<< PING barjavel.freenode.net
+<< PRIVMSG #tanuki :Hehehe.
+<< PING barjavel.freenode.net
+<< PING barjavel.freenode.net
+<< PRIVMSG #irssi :Kays: Fabulous. Thank you. :)
+<< PING barjavel.freenode.net
+<< PRIVMSG #tanuki :... looks like /rawlog is the most likely bet.
+<< PING barjavel.freenode.net
+<< PRIVMSG #tanuki :Yup.
+<< PRIVMSG #tanuki :oh man, it's beautiful.
+<< PRIVMSG #tanuki :heh.
+<< PART #irssi
+<< PRIVMSG #tanuki :All didn't get it for me. :/
+<< PING barjavel.freenode.net
+<< PRIVMSG #tanuki :The rawlog is perfect, though.
+<< PRIVMSG #tanuki :Just gotta parse the format.
+<< PING barjavel.freenode.net
+<< PRIVMSG #tanuki :The rfc is pretty readable, but I'm just collecting data for testing. :)
+<< PRIVMSG #tanuki :I already have a basic parser running. Mostly. Sorta. Haha.
+<< MODE #irssi b
+<< PING barjavel.freenode.net
+<< PRIVMSG #irssi :Good evening! I'm debugging an IRC server, and I'd love to dump all of the network level interactions (that is, IRC protocol messages). Can irssi do that? I haven't had much luck googling.
+<< PRIVMSG #tanuki :Hello boozu!
+<< PING barjavel.freenode.net
+<< PRIVMSG #tanuki :Hehehe.
+<< PING barjavel.freenode.net
+<< PING barjavel.freenode.net
+<< PRIVMSG #irssi :Kays: Fabulous. Thank you. :)
+<< PING barjavel.freenode.net
+<< PRIVMSG #tanuki :... looks like /rawlog is the most likely bet.
+<< PING barjavel.freenode.net
+<< PRIVMSG #tanuki :Yup.
+<< PRIVMSG #tanuki :oh man, it's beautiful.
+<< PRIVMSG #tanuki :heh.
+<< PART #irssi
+<< PRIVMSG #tanuki :All didn't get it for me. :/
+<< PING barjavel.freenode.net
+<< PRIVMSG #tanuki :The rawlog is perfect, though.
+<< PRIVMSG #tanuki :Just gotta parse the format.
+<< PING barjavel.freenode.net
+<< PRIVMSG #tanuki :The rfc is pretty readable, but I'm just collecting data for testing. :)
+<< PRIVMSG #tanuki :I already have a basic parser running. Mostly. Sorta. Haha.
+<< PING barjavel.freenode.net
+<< PRIVMSG #tanuki :Cool.
+<< PRIVMSG #tanuki :Can you send me a direct message?
+<< PRIVMSG c0sco :perfecto
+<< PING barjavel.freenode.net
+<< PRIVMSG #tanuki :muchas gracias.
+<< MODE #irssi b
+<< PING barjavel.freenode.net
+<< PRIVMSG #irssi :Good evening! I'm debugging an IRC server, and I'd love to dump all of the network level interactions (that is, IRC protocol messages). Can irssi do that? I haven't had much luck googling.
+<< PRIVMSG #tanuki :Hello boozu!
+<< PING barjavel.freenode.net
+<< PRIVMSG #tanuki :Hehehe.
+<< PING barjavel.freenode.net
+<< PING barjavel.freenode.net
+<< PRIVMSG #irssi :Kays: Fabulous. Thank you. :)
+<< PING barjavel.freenode.net
+<< PRIVMSG #tanuki :... looks like /rawlog is the most likely bet.
+<< PING barjavel.freenode.net
+<< PRIVMSG #tanuki :Yup.
+<< PRIVMSG #tanuki :oh man, it's beautiful.
+<< PRIVMSG #tanuki :heh.
+<< PART #irssi
+<< PRIVMSG #tanuki :All didn't get it for me. :/
+<< PING barjavel.freenode.net
+<< PRIVMSG #tanuki :The rawlog is perfect, though.
+<< PRIVMSG #tanuki :Just gotta parse the format.
+<< PING barjavel.freenode.net
+<< PRIVMSG #tanuki :The rfc is pretty readable, but I'm just collecting data for testing. :)
+<< PRIVMSG #tanuki :I already have a basic parser running. Mostly. Sorta. Haha.
+<< PING barjavel.freenode.net
+<< PRIVMSG #tanuki :Cool.
+<< PRIVMSG #tanuki :Can you send me a direct message?
+<< PRIVMSG c0sco :perfecto
+<< PING barjavel.freenode.net
+<< PRIVMSG #tanuki :muchas gracias.
+<< PING barjavel.freenode.net
+<< PING barjavel.freenode.net
+<< PRIVMSG #tanuki :Bummer
+<< PING barjavel.freenode.net
+<< PRIVMSG #tanuki :doh. the question is: where did they move too?
+<< PRIVMSG #tanuki :err, to
+<< PING barjavel.freenode.net
+<< PRIVMSG #tanuki :#lithp ?
+<< PRIVMSG #tanuki :ahh, yeah
+<< PRIVMSG #tanuki :that'll do it
+<< PRIVMSG #tanuki :Stayed to late, didn't drink enough.
+<< PING barjavel.freenode.net
+<< PRIVMSG #tanuki :Well. There are plenty of other parties in town.
+<< PRIVMSG #tanuki :ACTION hands austinh a beer.
+<< PING barjavel.freenode.net
+<< PRIVMSG #tanuki :Yeah. That sucks. It seems like a pretty rad environment and language. It's a bummer the community has dried up ...
+<< PRIVMSG #tanuki :Or, at least, that's how it sounds. :)
+<< PING barjavel.freenode.net
+<< PING barjavel.freenode.net
+<< PRIVMSG #tanuki :Doh.
+<< PRIVMSG #tanuki :Try vim.
+<< PRIVMSG #tanuki :*rimshot*
+<< PING barjavel.freenode.net
+<< PRIVMSG #tanuki :I wonder how the protocol handles :this .. or if it needs to escape that colon.
+<< PING barjavel.freenode.net
+<< PRIVMSG #irssi :Good evening! I'm debugging an IRC server, and I'd love to dump all of the network level interactions (that is, IRC protocol messages). Can irssi do that? I haven't had much luck googling.
+<< PRIVMSG #tanuki :Hello boozu!
+<< PING barjavel.freenode.net
+<< PRIVMSG #tanuki :Hehehe.
+<< PING barjavel.freenode.net
+<< PING barjavel.freenode.net
+<< PRIVMSG #irssi :Kays: Fabulous. Thank you. :)
+<< PING barjavel.freenode.net
+<< PRIVMSG #tanuki :... looks like /rawlog is the most likely bet.
+<< PING barjavel.freenode.net
+<< PRIVMSG #tanuki :Yup.
+<< PRIVMSG #tanuki :oh man, it's beautiful.
+<< PRIVMSG #tanuki :heh.
+<< PART #irssi
+<< PRIVMSG #tanuki :All didn't get it for me. :/
+<< PING barjavel.freenode.net
+<< PRIVMSG #tanuki :The rawlog is perfect, though.
+<< PRIVMSG #tanuki :Just gotta parse the format.
+<< PING barjavel.freenode.net
+<< PRIVMSG #tanuki :The rfc is pretty readable, but I'm just collecting data for testing. :)
+<< PRIVMSG #tanuki :I already have a basic parser running. Mostly. Sorta. Haha.
+<< PING barjavel.freenode.net
+<< PRIVMSG #tanuki :Cool.
+<< PRIVMSG #tanuki :Can you send me a direct message?
+<< PRIVMSG c0sco :perfecto
+<< PING barjavel.freenode.net
+<< PRIVMSG #tanuki :muchas gracias.
+<< PING barjavel.freenode.net
+<< PING barjavel.freenode.net
+<< PRIVMSG #tanuki :Bummer
+<< PING barjavel.freenode.net
+<< PRIVMSG #tanuki :doh. the question is: where did they move too?
+<< PRIVMSG #tanuki :err, to
+<< PING barjavel.freenode.net
+<< PRIVMSG #tanuki :#lithp ?
+<< PRIVMSG #tanuki :ahh, yeah
+<< PRIVMSG #tanuki :that'll do it
+<< PRIVMSG #tanuki :Stayed to late, didn't drink enough.
+<< PING barjavel.freenode.net
+<< PRIVMSG #tanuki :Well. There are plenty of other parties in town.
+<< PRIVMSG #tanuki :ACTION hands austinh a beer.
+<< PING barjavel.freenode.net
+<< PRIVMSG #tanuki :Yeah. That sucks. It seems like a pretty rad environment and language. It's a bummer the community has dried up ...
+<< PRIVMSG #tanuki :Or, at least, that's how it sounds. :)
+<< PING barjavel.freenode.net
+<< PING barjavel.freenode.net
+<< PRIVMSG #tanuki :Doh.
+<< PRIVMSG #tanuki :Try vim.
+<< PRIVMSG #tanuki :*rimshot*
+<< PING barjavel.freenode.net
+<< PRIVMSG #tanuki :I wonder how the protocol handles :this .. or if it needs to escape that colon.
+<< PING barjavel.freenode.net
+<< PING barjavel.freenode.net
+<< PRIVMSG #tanuki :No worries. This is a particular challenge for me to learn Haskell and the Parsec parsing library. :)
+<< PRIVMSG #tanuki :... can you type something in the form of :word ?
+<< PRIVMSG #tanuki :bingo
+<< PRIVMSG #tanuki :thanks.

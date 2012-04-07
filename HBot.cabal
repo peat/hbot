@@ -1,0 +1,35 @@
+Name:                HBot
+Version:             0.1
+-- Synopsis:            
+-- Description:         
+License:             BSD3
+License-file:        LICENSE
+Author:              Peat Bakke
+Maintainer:          peat@peat.org
+-- Copyright:           
+Category:            Network
+Build-type:          Simple
+Cabal-version:       >=1.2
+
+Library
+  Build-Depends:
+    base,
+    split,
+    parsec,
+    network
+
+
+Executable HBot 
+  Hs-Source-Dirs: src
+  Main-is: Main.hs
+  GHC-Options: 
+  
+  -- Packages needed in order to build this package.
+  -- Build-depends:       
+  
+  -- Modules not exported by this package.
+  -- Other-modules:       
+  
+  -- Extra tools (e.g. alex, hsc2hs, ...) needed to build the source.
+  -- Build-tools:         
+  
