@@ -452,11 +452,10 @@ generateOperation c = case c of
 generateParameters :: Maybe Parameters -> Either String String
 generateParameters p = case p of
     Nothing                -> Right ""
-    Just (ParamUser u m r)     -> Right (genUser u m r)
+    Just (ParamUser u m r) -> Right (genUser u m r)
     Just (ParamDefault ps) -> Right (intercalate " :" ps)
     Just (ParamChan cs ks) -> Right (chansAndKeys  cs ks)
     Just (ParamMsg ts msg) -> Right (targetsAndMsg ts msg)
-    _                      -> Left ("Unknown parameters: " ++ (show p)) 
   where
     chansAndKeys cs ks = case (cs, ks) of
       (cs, Nothing) -> targMerge cs
