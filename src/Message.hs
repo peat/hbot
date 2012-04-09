@@ -445,6 +445,7 @@ generateOperation c = case c of
   CmdUser    -> Right "USER"
   CmdJoin    -> Right "JOIN"
   CmdPrivmsg -> Right "PRIVMSG"
+  CmdPong    -> Right "PONG"
   _          -> Left ("Unknown command: " ++ (show c))
 
 
@@ -598,11 +599,12 @@ parseChannel :: Parser Target
 parseChannel = try pChanL <|> try pChanG
                where
                  pChanL = do char '&'
-                             n <- many (alphaNum <|> char ':')
+                             n <- pChanName
                              return $ LocalChannel n
                  pChanG = do char '#'
-                             n <- many (alphaNum <|> char ':')
+                             n <- pChanName
                              return $ GlobalChannel n
+                 pChanName = many (alphaNum <|> oneOf ":-")
 
 
 {- msgto user parsers -}
