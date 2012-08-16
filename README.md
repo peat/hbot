@@ -6,9 +6,9 @@ This is a personal project, wherein I play around with building IRC bots and an 
 
 Clone this repo, and:
 
-   $ cabal configure
-   $ cabal build
-   $ dist/build/HBot/HBot
+    $ cabal configure
+    $ cabal build
+    $ dist/build/HBot/HBot
 
 In it's current configuration, this app will:
 
