@@ -1,8 +1,8 @@
-### HIRC
+# HIRC
 
 This is a personal project, wherein I play around with building IRC bots and an IRC game with Haskell.
 
-## Running
+### Running
 
 Clone this repo, and:
 
@@ -19,7 +19,7 @@ In it's current configuration, this app will:
 
 To change this behavior, check out the `src/Main.hs` file.
 
-## Code
+### Code
 
 There are currently three files:
 
