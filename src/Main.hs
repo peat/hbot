@@ -5,10 +5,10 @@ import System.IO
 import Message
 import Text.Printf
 
-nickMsg  = Message {origin = OriginDefault, operation = CmdNick, parameters = Just (ParamDefault ["peatBot"])}
-userMsg  = Message {origin = OriginDefault, operation = CmdUser, parameters = Just (ParamUser {uname = "peatbot", mode = 0, realname = "peats bot"})}
-joinMsg  = Message {origin = OriginDefault, operation = CmdJoin, parameters = Just (ParamChan {channels = [GlobalChannel "tanuki-test"], keys = Nothing})}
-helloMsg = Message {origin = OriginDefault, operation = CmdPrivmsg, parameters = Just (ParamMsg {targets = [GlobalChannel "tanuki-test"], message = "hello, I am Peat's Haskell Bot!"})}
+nickMsg  = Message {origin = OriginDefault, operation = CmdNick, parameters = Just (ParamDefault ["HBot"])}
+userMsg  = Message {origin = OriginDefault, operation = CmdUser, parameters = Just (ParamUser {uname = "hbot", mode = 0, realname = "github peat hbot"})}
+joinMsg  = Message {origin = OriginDefault, operation = CmdJoin, parameters = Just (ParamChan {channels = [GlobalChannel "hbot-test"], keys = Nothing})}
+helloMsg = Message {origin = OriginDefault, operation = CmdPrivmsg, parameters = Just (ParamMsg {targets = [GlobalChannel "hbot-test"], message = "hello, I am Peat's Haskell Bot! I live at http://github.com/peat/hbot"})}
 
 connect :: String -> Int -> IO ()
 connect server port = do
