@@ -1,4 +1,4 @@
-# HIRC
+# HBot
 
 This is a personal project, wherein I play around with building IRC bots and an IRC game with Haskell.
 
